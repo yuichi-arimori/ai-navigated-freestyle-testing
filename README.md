@@ -1,2 +1,14 @@
-# ai-navigated-freestyle-testing-prompt
-A prompt for AI-navigated freestyle testing that supports testers by presenting test viewpoints, example operations, and input examples during test execution.
+# ai-navigated-freestyle-testing
+このリポジトリは、論文「AIナビゲーション型フリースタイルテストの提案」で提案したテストナビプロンプトの汎用テンプレートを公開したものです。
+
+## 概要
+本プロンプトは、生成AIがソフトウェアテストの初心者をナビゲートし、仕様漏れ・仕様の曖昧さに起因する不具合を発見しやすくすることを目的としています。
+プロンプトは以下の3つの情報で構成されています。
+- 制御ルール定義
+- 仕様情報
+- 観点・ナレッジ情報
+
+実際に利用する場合は、
+- # 仕様情報
+- # 観点・ナレッジ情報
+を対象システムに合わせて置き換えてください。
