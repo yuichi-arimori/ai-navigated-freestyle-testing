@@ -98,6 +98,6 @@
 - **AIナビゲーション型フリースタイルテストの提案 ― テスト技術不足を補う、仕様の詳細化不十分に起因するバグの検出手法 ―**
 
 ## License
-このリポジトリの内容は、Creative Commons Attribution 4.0 International (CC BY 4.0) の下で公開します。
+このリポジトリの内容は、Creative Commons CC0 1.0 Universal (CC0 1.0) の下で公開します。
 
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/publicdomain/zero/1.0/
